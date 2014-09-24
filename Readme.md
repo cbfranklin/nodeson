@@ -1,0 +1,1 @@
+Nodeson is a quick-n-dirty node endpoint for github web hooks.
